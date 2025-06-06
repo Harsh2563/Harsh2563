@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Harsh Rai
 
-<!--
-**Harsh2563/Harsh2563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer passionate about building scalable full-stack web applications and solving real-world problems with technology. I'm currently pursuing my B.Tech in Computer Science from IIIT Gwalior (2022–2026). I enjoy working with React, TypeScript, Golang, and backend systems, and I love building products that create impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+
+- 🥇 Top 50 — Flipkart Grid 6.0 (out of 4.8 lakh participants)
+- 🥈 4th place — AASF Winter Projects
+- 🔥 Solved 1000+ DSA problems on LeetCode and GFG
+- 🔢 Rank 1290 (LeetCode Weekly 450), Rank 3018 (Weekly 407)
+
+---
+
+## 📊 GitHub Stats & Insights
+
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh2563&show_icons=true&theme=radical" alt="Harsh's GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh2563&layout=compact&theme=radical" alt="Most Used Languages" height="150" />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harsh2563&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" height="150" />
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** TypeScript, JavaScript, Golang, C++, Python  
+**Frontend:** React, Next.js, TailwindCSS, Redux  
+**Backend:** Node.js, Express, Appwrite, REST, GraphQL  
+**Databases:** PostgreSQL, MySQL, MongoDB, PlanetScale, Prisma  
+**Tools:** Docker, Git, Vercel, Netlify, Firebase, OpenAI API, Langchain
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 [raiharsh030@gmail.com](mailto:raiharsh030@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/harshrai030)
+- 💻 [GitHub](https://github.com/Harsh2563)
+- 🧠 [LeetCode](https://leetcode.com/u/Harsh2506/)
+- 📗 [GeeksforGeeks](https://www.geeksforgeeks.org/user/htc38rhgx/)
+
+---
+
+⭐ *Feel free to explore my repositories and reach out if you want to collaborate!*
