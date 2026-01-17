@@ -13,13 +13,6 @@ I'm a Software Developer passionate about building scalable full-stack web appli
 
 ---
 
-## 📊 GitHub Stats & Insights
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh2563&show_icons=true&theme=radical" alt="Harsh's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh2563&layout=compact&theme=radical" alt="Most Used Languages" height="150" />
-
----
-
 ## 🧰 Tech Stack
 
 **Languages:** TypeScript, JavaScript, Golang, C++, Python  
